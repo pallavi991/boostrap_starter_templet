@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#items{
+    float:right;
+}
+img{
+    
+    width: 70%;
+    height: 70%;
+    padding: 50px;
+
+}
+#mascot-img{
+   height: fit-content;
+}
+#logo{
+    text-align: center;
+    width: 70px;
+    border-radius: 10%;
+}
+.carousel-img{
+    height: 50%;
+    max-width: 50%;
+}
